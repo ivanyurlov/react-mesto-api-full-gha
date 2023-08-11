@@ -1,0 +1,11 @@
+.element__like {
+  max-width: 245px;
+  background-color: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 22px 15px 22px 21px;
+  gap: 15px;
+}

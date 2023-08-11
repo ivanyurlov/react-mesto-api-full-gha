@@ -1,0 +1,21 @@
+.element__basket {
+  width: 18px;
+  height: 19px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  background: none;
+  border: none;
+  transition: opacity 0.3s linear;
+  margin: 0;
+  padding: 0;
+}
+
+.element__basket:hover {
+  opacity: 0.6;
+}

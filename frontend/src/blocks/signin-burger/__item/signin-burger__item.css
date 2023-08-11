@@ -1,0 +1,12 @@
+.signin-burger__item {
+  background: #FFFFFF;
+  width: 100%;
+  height: 3px;
+  position: absolute;
+  top: 60%;
+  left: 0;
+  transform: translateY(-50%);
+  margin: 0;
+  padding: 0;
+}
+

@@ -1,0 +1,11 @@
+.signin__email {
+  font-weight: 500;
+  margin: 0 24px 0;
+  padding: 0;
+}
+
+@media (max-width: 550px) {
+  .signin__email {
+    margin-bottom: 31px;
+  }
+}

@@ -1,0 +1,41 @@
+.signin-burger {
+  display: none;
+  width: 24px;
+  height: 18px;
+  margin: 0 0 31px;
+  padding: 0;
+  position: relative;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.3s linear;
+}
+
+.signin-burger::after,
+.signin-burger::before {
+  background: #FFFFFF;
+  width: 100%;
+  height: 3px;
+  position: absolute;
+  left: 0;
+  /*transform: translateY(-50%);*/
+  content: "";
+}
+
+.signin-burger::after {
+  top: 100%;
+}
+
+.signin-burger::before {
+  top: 0;
+}
+
+.signin-burger:hover {
+  opacity: 0.8;
+}
+
+@media (max-width: 450px) {
+  .signin-burger {
+    display: block;
+  }
+}

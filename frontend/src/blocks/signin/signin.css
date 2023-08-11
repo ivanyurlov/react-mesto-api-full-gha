@@ -1,0 +1,18 @@
+.signin {
+  display: flex;
+  flex-direction: row;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 450px) {
+  .signin {
+    font-size: 14px;
+    line-height: 17px;
+    /*display: none;*/
+  }
+}
