@@ -6,8 +6,8 @@
 
 ## Ссылки на проект
 
-* IP-адрес IP 84.201.134.74
+* IP 84.201.134.74
 
-* Frontend https://ivanyurlov.nomoreparties.co/
+* Frontend https://ivanyurlov.nomoreparties.co
 
-* Backend https://api.ivanyurlov.nomoreparties.co/
+* Backend https://api.ivanyurlov.nomoreparties.co
